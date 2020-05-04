@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "v5z",
+    "description": "",
+    "home_page_url": "https://atao60.github.io/v5z",
+    "feed_url": "https://atao60.github.io/v5z/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "pr"
+    },
+    "items": [
+        {
+            "id": "https://atao60.github.io/v5z/mon-premier-post.html",
+            "url": "https://atao60.github.io/v5z/mon-premier-post.html",
+            "title": "Mon premier post",
+            "author": {
+                "name": "pr"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-05-04T13:01:54+02:00",
+            "date_modified": "2020-05-04T13:01:54+02:00"
+        }
+    ]
+}
